@@ -2,9 +2,9 @@
 I have stored the source code while practicing machine learning here.
 # Where did I run the code
 I run this on Google colab and Jupyter notebook.
-## Environment setting
+# Environment setting
 My environment installation in Anaconda for Jupyter notebook.
-# For cpu
+## For cpu
 step 1: create environment python 3.10.4
 step 2: install seaborn
 step 3: install scikit-learn
