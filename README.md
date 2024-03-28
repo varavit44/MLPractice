@@ -1,5 +1,5 @@
 # Objective
-I have stored the source code while practicing machine learning here.
+I store some interesting source code from my machine-learning syllabus here.
 # Where did I run the code
 I run this on Google colab and Jupyter notebook.
 # Environment setting
